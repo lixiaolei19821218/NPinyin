@@ -1,0 +1,5 @@
+C:\Users\arthur.li\Documents\Visual Studio 2015\Projects\999Parcel\NPinyin\bin\Debug\NPinyin.dll
+C:\Users\arthur.li\Documents\Visual Studio 2015\Projects\999Parcel\NPinyin\bin\Debug\NPinyin.pdb
+C:\Users\arthur.li\Documents\Visual Studio 2015\Projects\999Parcel\NPinyin\obj\Debug\NPinyin.csprojResolveAssemblyReference.cache
+C:\Users\arthur.li\Documents\Visual Studio 2015\Projects\999Parcel\NPinyin\obj\Debug\NPinyin.dll
+C:\Users\arthur.li\Documents\Visual Studio 2015\Projects\999Parcel\NPinyin\obj\Debug\NPinyin.pdb
