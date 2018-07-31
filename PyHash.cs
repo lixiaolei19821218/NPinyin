@@ -4346,6 +4346,7 @@ namespace NPinyin
                 336,
                 349,
                 359,
+                362,
                 381
             },
             new short[]
@@ -6838,6 +6839,7 @@ namespace NPinyin
                 303,
                 329,
                 334,
+                377,
                 391
             },
             new short[]
